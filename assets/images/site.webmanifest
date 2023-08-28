@@ -1,6 +1,6 @@
 {
-    "name": "J6 Integrated",
-    "short_name": "J6 Integrated",
+    "name": "site",
+    "short_name": "site",
     "icons": [
         {
             "src": "/assets/images/android-chrome-192x192.png",
