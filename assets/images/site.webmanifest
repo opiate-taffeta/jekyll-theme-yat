@@ -1,6 +1,6 @@
 {
-    "name": "site",
-    "short_name": "site",
+    "name": "site name",
+    "short_name": "site name",
     "icons": [
         {
             "src": "/assets/images/android-chrome-192x192.png",
