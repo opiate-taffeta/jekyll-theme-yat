@@ -76,6 +76,7 @@ yat:
 # lang: "en"  # default lang is en
 
 # Translate languges
+translate_langs: false
 # langs refer to https://cloud.google.com/translate/docs/languages
 # translate_langs:
 #   - lang: en
